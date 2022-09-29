@@ -3,3 +3,6 @@ This is a simple text file.
 
 Colors of the rainbow
 
+1. red
+2. yellow 
+3. blue
